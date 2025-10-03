@@ -1,4 +1,4 @@
 streamlit
 pandas
 plotly
-pycaret
+pycaret==3.0.0
