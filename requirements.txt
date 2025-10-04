@@ -1,10 +1,7 @@
 streamlit
 pandas
 plotly
-pycaret==3.0.0
-numpy
+pycaret==2.3.10
 scikit-learn
+numpy
 scipy
-statsmodels
-joblib
-Cython
