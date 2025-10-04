@@ -1,7 +1,7 @@
 streamlit
 pandas
 plotly
-pycaret==2.3.10
+pycaret==3.2.0
 scikit-learn
-numpy>=1.23
-scipy>=1.10
+numpy
+scipy
