@@ -2,3 +2,9 @@ streamlit
 pandas
 plotly
 pycaret==3.0.0
+numpy
+scikit-learn
+scipy
+statsmodels
+joblib
+Cython
